@@ -4,10 +4,8 @@
 
 [官方文档](http://graphql.cn/learn/queries/)
 
-**重要特性**
+### APOLLO
 
-> 1.查询和其结果拥有几乎一样的结构。
+[apollo 文档](https://www.apollographql.com)
 
-
-
-### 查询和变更 Test
+[资料](https://segmentfault.com/a/1190000010409624)
